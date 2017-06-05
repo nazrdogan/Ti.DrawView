@@ -1,0 +1,12 @@
+PODS:
+  - SignatureView (1.1.0)
+
+DEPENDENCIES:
+  - SignatureView
+
+SPEC CHECKSUMS:
+  SignatureView: 23bb085add66110062decbfa899ed93d111b76e5
+
+PODFILE CHECKSUM: f78dfadefdbc5504798641b440ce492063eebedc
+
+COCOAPODS: 1.2.1
